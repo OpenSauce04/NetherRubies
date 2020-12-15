@@ -1,0 +1,34 @@
+{
+  "block.ancient_debris.fall": {
+    "sounds": [
+      "block/ancient_debris/step1",
+      "block/ancient_debris/step2",
+      "block/ancient_debris/step3",
+      "block/ancient_debris/step4",
+      "block/ancient_debris/step5",
+      "block/ancient_debris/step6"
+    ]
+  },
+  "block.ancient_debris.hit": {
+    "sounds": [
+      "block/ancient_debris/step1",
+      "block/ancient_debris/step2",
+      "block/ancient_debris/step3",
+      "block/ancient_debris/step4",
+      "block/ancient_debris/step5",
+      "block/ancient_debris/step6"
+    ],
+    "subtitle": "subtitles.block.generic.hit"
+  },
+    "block.ancient_debris.step": {
+    "sounds": [
+      "block/ancient_debris/step1",
+      "block/ancient_debris/step2",
+      "block/ancient_debris/step3",
+      "block/ancient_debris/step4",
+      "block/ancient_debris/step5",
+      "block/ancient_debris/step6"
+    ],
+    "subtitle": "subtitles.block.generic.footsteps"
+  }
+}
