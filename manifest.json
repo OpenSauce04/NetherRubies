@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Replaces all Netherite related items with Ruby equivalents",
+        "name": "Nether Rubies",
+        "uuid": "e82fe360-9a86-4004-9160-7e6fdcb93b452",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 16, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Pack that replaces all Netherite related items with Ruby equivalents",
+            "type": "resources",
+            "uuid": "f27b12f8-a358-4548-af1b-ae6f45a77def",
+            "version": [1, 0, 0]
+        }
+    ]
+}
