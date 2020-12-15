@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "description": "Replaces all Netherite related items with Ruby equivalents",
-        "name": "Nether Rubies",
+        "name": "Nether Rubies (New Style)",
         "uuid": "d1c95b4e-f72e-4087-a7d6-c286e07e98ea",
         "version": [1, 0, 0],
         "min_engine_version": [ 1, 16, 0 ]
