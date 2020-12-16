@@ -9,5 +9,5 @@ item.netherite_boots.name=Ruby Boots	#
 item.netherite_leggings.name=Ruby Leggings	#
 item.netherite_chestplate.name=Ruby Chestplate	#
 item.netherite_helmet.name=Ruby Helmet	#
-tile.oreRuby.name=Ruby Ore	#
+tile.ancient_debris.name=Ruby Ore	#
 tile.netherite_block.name=Block of Ruby	#
