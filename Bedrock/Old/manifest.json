@@ -4,7 +4,7 @@
         "description": "Replaces all Netherite related items with Ruby equivalents",
         "name": "Nether Rubies (Old Style)",
         "uuid": "746344a7-0951-45cc-80aa-1d7d7dda0123",
-        "version": [1, 0, 2],
+        "version": [1, 0, 3],
         "min_engine_version": [ 1, 16, 0 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "Pack that replaces all Netherite related items with Ruby equivalents",
             "type": "resources",
             "uuid": "8a459cf1-385b-425d-86f8-3bc5c1b8e9bd",
-            "version": [1, 0, 2]
+            "version": [1, 0, 3]
         }
     ]
 }
